@@ -15,7 +15,7 @@ The goal of this project is to highlight the genius of perhaps the greatest land
 ## Hogan's Fountain Pavilion, the centerpoint of my AOI
 (https://historiclouisville.com/hogans-fountain-pavilion/)
 
-![Canopy Height Layout](Thumbnail/CherokeeCanopy.png)
+![Canopy Height Layout](Thumbnail/CherokeeCanopyHD.png)
 
 ![Boone Statue](Thumbnail/boone.jpg)
 ## A staute of Daniel Boone at the entrance of Cherokee Park
